@@ -2,20 +2,6 @@
 
 ## Estudante de programação
 
-<div>
-<a href="https://github.com/Theusnbt">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Theusnbt&theme=dark" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theusnbt&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-</div>
-
-<div style="display: inline-block"><br>
- <i class="devicon-python-plain-wordmark"></i>
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</div>
-
 ### 🤖 Linguagens
 
 <img 
