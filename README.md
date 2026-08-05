@@ -1,6 +1,6 @@
-# Olá comandantes, me chamo Matheus! :airplane:
+# Olá comandantes, me chamo Matheus! 
 
-## Estudante de programação🤖 e aviação✈️
+## Estudante de programação
 
 <div>
 <a href="https://github.com/Theusnbt">
