@@ -107,9 +107,6 @@ sobre_mim:
 <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=7B2CFF" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
 
 </div>
 
