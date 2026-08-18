@@ -81,8 +81,6 @@ sobre_mim:
 
 <br><br>
 
-<img src="https://img.logokit.com/asp.net?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" alt="ASP.NET"/>
-
 </div>
 
 <br>
