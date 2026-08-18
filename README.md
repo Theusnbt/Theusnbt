@@ -163,30 +163,6 @@ Explorando Dart e desenvolvimento de aplicações modernas.
 
 ---
 
-## `> CURRENT_OBJECTIVES`
-
-## `> CURRENT_OBJECTIVES`
-
-<div align="center">
-
-```text
-theusnbt@github:~/projects$ cat objectives.txt
-
-[01] ####################--  Evoluir em JavaScript
-[02] ##################----  Aprofundar Node.js & Express
-[03] ################----    Evoluir em C# & ASP.NET
-[04] ##############------    Explorar Dart
-[05] ############--------    Criar projetos melhores
-[06] ##########------------  Aprender constantemente
-
-> PROCESS: LEARN -> BUILD -> TEST -> IMPROVE
-
-theusnbt@github:~/projects$ _
-```
-
-</div>
-
-
 ---
 
 ## `> PROJECTS`
