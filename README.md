@@ -261,47 +261,11 @@ Projetos desenvolvidos para estudar novas tecnologias, testar ideias e colocar c
 
 ---
 
-## `> GITHUB_STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theusnbt&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&include_all_commits=true&count_private=true&title_color=00F0FF&icon_color=7B2CFF&text_color=C9D1D9" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnbt&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="180" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=theusnbt&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2CFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## `> ACTIVITY`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theusnbt&bg_color=0D1117&color=00F0FF&line=7B2CFF&point=00FF88&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theusnbt&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## `> CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/theusnbt/theusnbt/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
